@@ -1,6 +1,7 @@
 [submodule "STM32/src/Arduino_Core_STM32"]
 	path = STM32/src/Arduino_Core_STM32
 	url = https://github.com/gentijo/Arduino_Core_STM32.git
+	branch = spracingf3
 [submodule "STM32/src/Arduino_Tools"]
 	path = STM32/src/Arduino_Tools
 	url = https://github.com/stm32duino/Arduino_Tools
